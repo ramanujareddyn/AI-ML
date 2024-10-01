@@ -1,2 +1,2 @@
-# Copy-of-Basics-of-Linear-Algebra
+# AI-ML
 Basic of Linear Algebra
