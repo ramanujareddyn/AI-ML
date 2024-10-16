@@ -1,2 +1,2 @@
 # AI-ML
-Basic of Linear Algebra
+AI-ML projects and lab assignments
